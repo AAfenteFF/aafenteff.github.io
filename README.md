@@ -1,6 +1,7 @@
 # AAfenteFF
 # Web-developer
-![alt-текст](http://i.imgur.com/9I6NRUm.png "GitHub")
+![](http://i.imgur.com/9I6NRUm.png)
+[GitHub](https://github.com/AAfenteFF)
 
 ![](https://image.ibb.co/e3miqJ/image.jpg)
 # Мои работы
