@@ -1,5 +1,7 @@
 # AAfenteFF
 # Web-developer
+![alt-текст](http://i.imgur.com/9I6NRUm.png "GitHub")
+
 ![](https://image.ibb.co/e3miqJ/image.jpg)
 # Мои работы
 ## [ВетКлиника "Бобёр" г. Самара](http://vetbober.ru)
