@@ -7,7 +7,7 @@
 <a href="https://ok.ru/aafenteff"><img src="https://github.com/AAfenteFF/aafenteff.github.io/blob/master/img/icons/odnoklassniki.png?raw=true" alt="Odnoklassniki"></a>
 <a href="https://www.instagram.com/aafenteff/"><img src="https://github.com/AAfenteFF/aafenteff.github.io/blob/master/img/icons/instagram.png?raw=true" alt="Instagram"></a>
 <a href="https://twitter.com/AAfenteFF"><img src="https://github.com/AAfenteFF/aafenteff.github.io/blob/master/img/icons/twitter.png?raw=true" alt="Twitter"></a>
-
+<a href="https://aafenteff.tumblr.com/"><img src="https://github.com/AAfenteFF/aafenteff.github.io/blob/master/img/icons/tumblr.png?raw=true" alt="Twitter"></a>
 
 
 ![](https://github.com/AAfenteFF/aafenteff.github.io/blob/master/img/image/logo.jpg?raw=true)
