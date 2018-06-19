@@ -1,5 +1,5 @@
-<h1>AAfenteFF</h1>
-<h1>Web-developer</h1>
+# AAfenteFF
+# Frontend-developer
 
 
 <a href="https://github.com/AAfenteFF"><img src="https://github.com/AAfenteFF/aafenteff.github.io/blob/master/img/icons/github.png?raw=true" alt="GitHub"></a>
@@ -20,7 +20,7 @@
 
 
 ![](https://github.com/AAfenteFF/aafenteff.github.io/blob/master/img/image/logo.jpg?raw=true)
-# Мои работы
+# Портфолио
 ## [ВетКлиника "Бобёр" г. Самара](http://vetbober.ru)
 ![](https://github.com/AAfenteFF/aafenteff.github.io/blob/master/img/portfolio/Bober.jpg?raw=true)
 ## [ВетКлиника "Бобёр" г. Самара ВКонтакте](https://vk.com/boberzooshop)
