@@ -1,6 +1,7 @@
 # AAfenteFF
 # Web-developer
 <a href="https://github.com/AAfenteFF"><img src="https://github.com/AAfenteFF/aafenteff.github.io/blob/master/img/icons/github.png?raw=true" alt="GitHub"></a>
+<a href="mailto:aafenteff@gmail.com"><img src="https://github.com/AAfenteFF/aafenteff.github.io/blob/master/img/icons/mail.png?raw=true" alt="Mail"></a>
 
 ![](https://github.com/AAfenteFF/aafenteff.github.io/blob/master/img/image/logo.jpg?raw=true)
 # Мои работы
