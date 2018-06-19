@@ -3,8 +3,9 @@
 
 <a href="https://github.com/AAfenteFF"><img src="https://github.com/AAfenteFF/aafenteff.github.io/blob/master/img/icons/github.png?raw=true" alt="GitHub"></a>
 <a href="mailto:aafenteff@gmail.com"><img src="https://github.com/AAfenteFF/aafenteff.github.io/blob/master/img/icons/mail.png?raw=true" alt="Mail"></a>
-<a href="https://vk.com/aafenteff"><img src="https://github.com/AAfenteFF/aafenteff.github.io/blob/master/img/icons/vkontakte.png?raw=true" alt="VKontakte"></a>
 <a href="https://ok.ru/aafenteff"><img src="https://github.com/AAfenteFF/aafenteff.github.io/blob/master/img/icons/odnoklassniki.png?raw=true" alt="Odnoklassniki"></a>
+<a href="https://vk.com/aafenteff"><img src="https://github.com/AAfenteFF/aafenteff.github.io/blob/master/img/icons/vkontakte.png?raw=true" alt="VKontakte"></a>
+
 
 ![](https://github.com/AAfenteFF/aafenteff.github.io/blob/master/img/image/logo.jpg?raw=true)
 # Мои работы
