@@ -14,6 +14,7 @@
 <a href="https://ru.pinterest.com/aafenteff/"><img src="https://github.com/AAfenteFF/aafenteff.github.io/blob/master/img/icons/pinterest.png?raw=true" alt="Pinterest"></a>
 <a href="https://www.facebook.com/aafenteff"><img src="https://github.com/AAfenteFF/aafenteff.github.io/blob/master/img/icons/facebook.png?raw=true" alt="Facebook"></a>
 <a href="https://www.stihi.ru/avtor/aafenteff"><img src="https://github.com/AAfenteFF/aafenteff.github.io/blob/master/img/icons/pen.png?raw=true" alt="СТихи.ру"></a>
+<a href="https://api.whatsapp.com/send?phone=79171176996"><img src="https://github.com/AAfenteFF/aafenteff.github.io/blob/master/img/icons/whatsapp.png?raw=true" alt="WhatsApp"></a>
 
 
 ![](https://github.com/AAfenteFF/aafenteff.github.io/blob/master/img/image/logo.jpg?raw=true)
