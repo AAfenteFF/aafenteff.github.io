@@ -1,7 +1,8 @@
 # AAfenteFF
 # Web-developer
-![](https://github.com/AAfenteFF/aafenteff.github.io/blob/master/img/image/logo.jpg?raw=true)
 <a href="https://github.com/AAfenteFF"><img src="http://i.imgur.com/9I6NRUm.png" alt="GitHub"></a>
+
+![](https://github.com/AAfenteFF/aafenteff.github.io/blob/master/img/image/logo.jpg?raw=true)
 # Мои работы
 ## [ВетКлиника "Бобёр" г. Самара](http://vetbober.ru)
 ![](https://github.com/AAfenteFF/aafenteff.github.io/blob/master/img/portfolio/Bober.jpg?raw=true)
