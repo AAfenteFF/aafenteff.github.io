@@ -1,5 +1,5 @@
-# AAfenteFF
-<center># Web-developer</center>
+<h1>AAfenteFF</h1>
+<h1>Web-developer</h1>
 
 
 <a href="https://github.com/AAfenteFF"><img src="https://github.com/AAfenteFF/aafenteff.github.io/blob/master/img/icons/github.png?raw=true" alt="GitHub"></a>
