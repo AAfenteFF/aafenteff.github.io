@@ -3,7 +3,7 @@
 ![](http://i.imgur.com/9I6NRUm.png)
 [GitHub](https://github.com/AAfenteFF)
 
-![](https://image.ibb.co/e3miqJ/image.jpg)
+![](https://github.com/AAfenteFF/aafenteff.github.io/blob/master/img/image/logo.jpg?raw=true)
 # Мои работы
 ## [ВетКлиника "Бобёр" г. Самара](http://vetbober.ru)
 ![](https://preview.ibb.co/j7xyqJ/image.jpg" )
